@@ -1,5 +1,7 @@
 # Korean-Study-Log
 
+This repository is made to help other that are learning Korean.
+
 ## Day 1
 
 ### Grammar
