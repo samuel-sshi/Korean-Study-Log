@@ -2,8 +2,6 @@
 
 This repository is made to help other that are learning Korean.
 
-## Day 1
-
 ### Grammar
 
 ### 1. -을까
