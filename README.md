@@ -39,3 +39,6 @@ actions or states.
 Example: 학교 앞 식당은 음식이 싸고 직원이 친절해요.
 
 Meaning: The price of food from the restaurant in front of the school is cheap and the waiter is nice.
+
+
+### Vocabulary
