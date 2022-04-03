@@ -1,6 +1,6 @@
 # Korean-Study-Log
 
-This repository is made to be a simple and compact guide for korean learners, you could say  this is a "cheat sheet".
+This repository is made to be compact guide for korean learners, you could say  this is a "cheat sheet".
 
 ## Grammar
 
