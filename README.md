@@ -73,3 +73,23 @@ after it.
 Example: 김치가 매워요. + 그래서 새라 씨는 김치를 못 먹어요 = 새라 씨는 김치가 매워서 못 먹어요.
 
 Meaning: Sarah cannot eat kimchi because kimchi is spicy.
+
+### 7. -지만
+
+It is a conjunctive ending used to admit what comes before while adding an objection or a different fact right after.
+
+*Structure = Verb, Adjective + -지만*
+
+Example : 노래는 잘 못 부르지만 춤은 잘 춰요.
+
+Meaning: She is not good at singing but she is good at dancing.
+
+### 8. -보다
+
+It is a particle to indicate the comparison target when comparing different items.
+
+*Structure = Noun + 보다*
+
+Example: 제주도가 서울보다 더 좋아요. 제주도에 가 보세요.
+
+Meaning: Jeju Island is better than Seoul. You should visit Jeju Island.
