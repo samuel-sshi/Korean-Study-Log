@@ -93,3 +93,47 @@ It is a particle to indicate the comparison target when comparing different item
 Example: 제주도가 서울보다 더 좋아요. 제주도에 가 보세요.
 
 Meaning: Jeju Island is better than Seoul. You should visit Jeju Island.
+
+### 9. -을 수 있다
+
+it is attached after a verb to show one's ability of doing the action.
+
+*Structure = Verb + -을 수 있다 / -ㄹ 수 있다*
+
+Example: 한국 음식을 만들 수 있어요?
+
+Meaning: Can you make Korean food?
+
+### 10. -을 수 없다 / 못 - 하다
+
+Example: 영어를 못 해요.
+
+Meaning: I don’t speak English.
+
+Example: 저는 지금 영화를 보고 있어요.
+
+Meaning: I am watching a movie.
+
+### 11. -고 있다
+
+it is attached after a verb to indicate that the action is continuing.
+
+*Structure = Verb + -고 있다*
+
+### 12. -고 있지 않다 / -지 않고 있다 / 안 -고 있다
+
+Example: 운동을 하고 있지 않아요.
+
+Meaning: I am not working out.
+
+Example: 공부를 하지 않고 있어요.
+
+Meaning: I am not studying.
+
+Example: 김밥을 안 먹고 있어요.
+
+Meaning: I am not eating kimbap.
+
+Example: 여행을 하고 있었어요.
+
+Meaning: I was travelling.
