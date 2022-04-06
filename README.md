@@ -137,3 +137,25 @@ Meaning: I am not eating kimbap.
 Example: 여행을 하고 있었어요.
 
 Meaning: I was travelling.
+
+### 13. -기 전에
+
+it indicates that the action that comes
+after is prior to the action before it.
+
+*Structure = Verb + -기 전에*
+
+Example: 수업이 시작하기 전에 화장실에 다녀오세요.
+
+Meaning: Please drop by the bathroom before the class start.
+
+### 14. -으려고/-려고
+
+it indicates one's purpose or desire to do
+an action.
+
+*Structure = Verb + -으려고/려고*
+
+Example:  할머니를 도우려고 천천히 걸었어요.
+
+Meaning: I walked slow to help my grandmother.
