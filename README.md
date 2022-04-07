@@ -159,3 +159,31 @@ an action.
 Example:  할머니를 도우려고 천천히 걸었어요.
 
 Meaning: I walked slow to help my grandmother.
+
+### 15. -은 후에
+
+It is attached after a verb to indicate that
+the action after it chronologically
+follows the action before it.
+
+*Structure = Verb + -은 후에 / -ㄴ 후에*
+
+Example: 책을 다 읽은 후에 산책을 하고 싶어요.
+
+Meaning: I want to take a walk after I finish reading this book.
+
+### 16. -으세요
+
+It is used to command/request the action in
+an honorific manner to the subject of a
+sentence.
+
+*Structure = Verb + -으세요/-세요*
+
+Example:  한국 친구와 한국어로 이야기하세요.
+
+Meaning: Speak in Korean with Korean friend.
+
+### 17. -지 마세요
+
+Example: 하세요 -> 하지 마세요
