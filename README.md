@@ -187,3 +187,25 @@ Meaning: Speak in Korean with Korean friend.
 ### 17. -지 마세요
 
 Example: 하세요 -> 하지 마세요
+
+### 18. -에서, -까지
+
+에서: it indicates the start of a range.
+까지: it indicates the end of a range.
+
+*Structure = noun + 에서, 까지*
+
+Example: 집에서 회사까지 걸어서 가요.
+
+Meaning: I walk from home to my workplace.
+
+### 19. -으십시오
+
+it shows formality while ordering/suggesting
+something to the listeners
+
+*Structure = verb + -으십시오/-십시오*
+
+Example:  엘리베이터를 타고 삼 층으로 가십시오.
+
+Meaning: Please use the elevator and go to the 3rd floor.
